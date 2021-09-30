@@ -7,7 +7,7 @@ The dataset is a collection of codes written for various programming languages. 
 
 ## Machine Learning:
 
-Check out the demo.ipynb and employ not previously implemented machine learning algorithms for analysis and comparison.
+Check out the [demo.ipynb](/demo.ipynb) and employ not previously implemented machine learning algorithms for analysis and comparison.
 
 # Contributing
 
